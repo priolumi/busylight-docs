@@ -2,7 +2,7 @@
 
 selfmade busylight  
 
-rasoi tzero w/h   
+raspi zero w/h   
 eth hat  
 ws2812 rgb led-hat  
 running node-red  
