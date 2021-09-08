@@ -9,7 +9,9 @@ running node-red
   
 and an app   
 signaling in colors in the app and on the busylight  
-  
+
+in action  
+
 idle greenish  
 ![idle greenish](https://github.com/priolumi/busylight-docs/blob/main/undocked_off.jpg)
 ![idle greenish](https://github.com/priolumi/busylight-docs/blob/main/sep_idle.jpg)  
