@@ -26,7 +26,7 @@ outgoing pale cyan
 ![outgoing pale cyan](undocked_outgoingcall.jpg)
 ![outgoing pale cyan](sep_out_init.jpg)  
 outgoing ringing cyan  
-no coffecupimage, but it's cyan      
+no coffecupimage, but led#s are cyan          
 ![outgoing pale cyan](sep_out_ringing.jpg)  
 
 
