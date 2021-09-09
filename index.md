@@ -1,6 +1,6 @@
 # busylight-docs
 
-selfmade busylight  
+selfmade busylight for innovaphone myAPPS (v13r2)  
 
 raspi zero w/h   
 eth hat  
