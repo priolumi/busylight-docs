@@ -17,7 +17,7 @@ idle greenish
 ![idle greenish](undocked_off.jpg)
 ![idle greenish](sep_idle.jpg) 
 
-==========
+-------------
 
 incoming gold  
 ![incoming gold](undocked_incoming.jpg)
