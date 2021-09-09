@@ -44,6 +44,3 @@ outgoing ringing cyan
 no coffecupimage here, but led's are cyan          
 ![outgoing pale cyan](sep_out_ringing.jpg)  
 
-
-
-
